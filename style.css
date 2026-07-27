@@ -1,0 +1,20 @@
+body{
+background-color: rgb(2, 2, 46);
+color: white;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gallery img{
+ width: 500px;
+    height: 300px;
+    margin: 20px;
+    border: 5px solid black;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+ .gallery img:hover{
+   border-color: blue;
+}
